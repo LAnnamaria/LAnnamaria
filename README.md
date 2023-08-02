@@ -1,17 +1,21 @@
 ### Annamaria Libor
-Data Analyst based in Munich
+Data Scientist based in Munich
 
 annamarie@windowslive.com || +4915753062126
 www.linkedin.com/in/annamaria-libor || https://github.com/LAnnamaria
 
 
-**Data analyst with 5+ years of financial experience in multiple countries. 
-A reliable team-player and a quick learner who is ready to be challenged after having graduated from Le Wagon´s Data Science Bootcamp.**
+**Experienced Data Scientist and innovative thinker with 5+ years of financial experience in various countries. 
+Holding a Data Science certification and a degree in Politics and Public Administration, I bring a unique blend of technical skills and analytical acumen to deliver impactful solutions.
+A reliable team-player and a quick learner who is ready to be challenged and passionate about empowering others.**
 
 Projects:
 ```diff
 + Quotes for your Posts +
++ Keyword Clustering +
++ PRESTWEETS +
++ website of the Bavarian-Hungarian Forum +
 ```
 
-an API using datasets of images and quotes to find the closest matching quotes to the images (using Deep Learning and Machine Learning models)
+
 
