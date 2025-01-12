@@ -1,7 +1,7 @@
 ### Annamaria Libor
 Data Scientist based in Munich
 
-annamarie@windowslive.com || +4915753062126
+annamarialibor@gmail.com || +4915753062126
 www.linkedin.com/in/annamaria-libor || https://github.com/LAnnamaria
 
 
